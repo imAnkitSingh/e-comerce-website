@@ -1,0 +1,21 @@
+<div id="content" >
+							<div id="bg">
+								<div class="row">
+									<div class="col-xs-9">
+										<a href="products.php">
+											<div class="bg-content">
+												<center>
+													<h1>We Sell Lifestyle</h1>
+													<h4>Flat 40% OFF On Premium Brand</h4>
+													<a href="products.php">
+														<button type="button" class="btn btn-danger btn-lg-active">Shop Now</button>
+													</a>
+												</center>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							</div>
+						</div>
+					

@@ -1,0 +1,4 @@
+what we choose inside the xml file with< android.widget.bla bla bla> actually they are a
+kind of class whom we are giving own styling .so to make them functionable inside the 
+kotlin language we need to define objects of such class .so for now we may find these thing
+bit hard to understand but now the basic  so that we can use them in near future easly.

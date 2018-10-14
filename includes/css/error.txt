@@ -1,0 +1,2 @@
+07-03 22:46:57.138 30801-30801/com.internshala.echo E/MultiWindowProxy: getServiceInstance failed!
+07-03 22:46:58.346 30801-30801/com.internshala.echo E/MultiWindowProxy: getServiceInstance failed!
